@@ -1,0 +1,7 @@
+<view class="page-body">
+  <view class="page-body-wrapper">
+    <canvas canvas-id="canvas" style="width: 400px; height: 500px;" class="canvas">
+      <!-- <div class="txtStyle">STROKE-ON CANVAS</div> -->
+    </canvas>
+  </view>
+</view>
